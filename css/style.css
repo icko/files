@@ -1,0 +1,29 @@
+*{margin:0;padding:0;}
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 13px;
+  margin: 0;
+  padding: 10px 10px;;
+}
+a{text-decoration:none;outline:none;}
+a:hover{text-decoration:underline;}
+input{outline:none;}
+h1{margin-bottom:0;font-size:30px;}
+h1 a{color:#000;}
+h1 span{color: #969696;font-size: 10px;font-style: italic;font-weight: normal;position:absolute;left:100px;top:17px;}
+
+#file_upload{float:right}
+.create-dir-container{color: #666;line-height: 28px;margin:10px 0 0 0;height:35px;}
+.create-dir-container .create-dir-link{float:left;color:#666;font-size:10px;}
+.create-dir-container form{float:left;display:none;margin-left:20px;}
+.create-dir-container input.txt{border:1px solid #ccc;padding:2px;}
+.create-dir-container input.create-dir-bt{padding: 2px 10px;}
+.create-dir-container .create-dir-status{color: #999999;font-size: 10px;font-style: italic;}
+
+#files{border-top:1px dotted #ccc;}
+#files tr{}
+#files tr.hover{background:#f3f3f3;}
+#files tr td{font-size:11px;padding-right: 10px;border-bottom:1px dotted #ccc;padding:3px}
+#files .filesize{color: #666;width:80px;}
+#files .file_delete{width:30px;cursor:pointer;}

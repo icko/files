@@ -1,0 +1,2 @@
+http://www.opensourceuniverse.com/zend-framework/quickstart-web-services-with-soap-and-zend-framework-263.html
+http://devzone.zend.com/article/1581
